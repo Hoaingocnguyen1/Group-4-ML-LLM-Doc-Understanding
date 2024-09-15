@@ -1,0 +1,7 @@
+Data Description
+This repository contains financial statement data for various companies sourced from cafef.vn. The data includes three types of financial statements:
+
+BS (Balance Sheet): Provides an overview of a company's assets, liabilities, and shareholder equity at a specific point in time.
+CF (Cash Flow Statement): Shows the cash inflows and outflows from the company's operating, investing, and financing activities.
+IS (Income Statement): Details the company's revenue, expenses, and profits over a specific period.
+The data is organized by company and year, and can be used for financial analysis, modeling, or comparison between companies.
